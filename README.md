@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game - Part 4 (Win Detection + Draw Logic)
+# Tic-Tac-Toe Game
 
 board = [
     [" ", " ", " "],
